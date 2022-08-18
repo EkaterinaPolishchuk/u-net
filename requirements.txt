@@ -1,0 +1,7 @@
+opendatasets~=0.1.22
+pandas~=1.4.3
+numpy~=1.23.2
+scikit-image~=0.19.2
+scikit-learn~=1.1.1
+tensorflow~=2.9.1
+keras~=2.9.0
